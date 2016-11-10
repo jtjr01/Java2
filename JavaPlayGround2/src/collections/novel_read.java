@@ -1,3 +1,9 @@
+/*
+ * Name: Jose Terrones Jr.
+ * Purpose: Creates two sets a hashset, and treeset to read a file 
+ * and add each word. It will be used to determine which is faster.
+ */
+
 package collections;
 
 import java.io.FileNotFoundException;

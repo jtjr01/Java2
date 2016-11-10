@@ -4,7 +4,7 @@
  * Purpose: Reads the file that contains words that start with Q and not
  * followed by u. It will also check for certain letters and give an 
  * appropriate score for each letter
- * Input:None
+ * Input:file
  * Output:Prints out the word and the score
  */
 
