@@ -1,3 +1,9 @@
+/*
+ * Name: Jose Terrones Jr.
+ * Purpose: Creates a file that will be populated with data from
+ * a different file.
+ */
+
 package fileIO;
 
 import java.util.*;
