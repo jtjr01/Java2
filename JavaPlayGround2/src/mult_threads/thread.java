@@ -4,7 +4,7 @@
  * number before they terminate.
  */
 
-package lab21;
+package mult_threads;
 
 public class thread implements Runnable {
 	public void run() 

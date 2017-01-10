@@ -3,7 +3,7 @@
  * Purpose: A simple program that creates threads and runs them.
  */
 
-package lab21;
+package mult_threads;
 
 import java.util.*;
 
